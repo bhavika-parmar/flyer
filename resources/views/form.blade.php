@@ -13,7 +13,7 @@
             </ul>
         </div>
     @endif
-
+          adsfdtgfgfh
     <h1 style="margin-left: 489px;">Form Page</h1>
     <form action="http://localhost-bhavika/Demoo/public/store " method="POST" enctype="multipart/form-data">
 
